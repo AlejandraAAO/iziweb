@@ -11,9 +11,8 @@
       class="ma-2"
       outlined
       color="#E64442"
-      dark
     >
-      Outlined Button
+      Mi Cuenta
     </v-btn>
 
     </v-app-bar>
