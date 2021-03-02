@@ -11,7 +11,6 @@
     >
       <div class="text-center">
         <logo />
-        <vuetify-logo />
       </div>
     </v-flex>
   </v-layout>
@@ -19,12 +18,10 @@
 
 <script>
 import Logo from '~/components/Logo.vue'
-import IziLogo from '~/components/IziLogo.vue'
 
 export default {
   components: {
-    Logo,
-    IziLogo
+    Logo
   }
 }
 </script>
